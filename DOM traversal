@@ -3,3 +3,8 @@ We can traverse DOM by selector method and child node properties.
 Query selector method: Allows us to search and match one or more given selector method.
 Some commands:-
 1) document.queryselectorAll("whatever tag u want to lookzThrough");   #Store the values of this command in a variable, and thhen print the variable
+2) document.queryselector(".orange").innerHTML; # use this for inner part of doc page
+3) apple.List.childNodes; #for all the children of the nodes.
+4) appleList.firstChild/LastChild; #for the first and last child of the tree
+5) appleList.parentElement; #for the parent node of the tree
+6) nextElementSibiling/ previousElementSibiling; #as the name suggest, for the previous or the next sibiling
