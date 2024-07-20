@@ -1,3 +1,5 @@
 DOM traversal, is the act of selecting nodes from dom tree.
 We can traverse DOM by selector method and child node properties.
 Query selector method: Allows us to search and match one or more given selector method.
+Some commands:-
+1) document.queryselectorAll("whatever tag u want to lookzThrough");   #Store the values of this command in a variable, and thhen print the variable
