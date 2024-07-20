@@ -1,0 +1,27 @@
+Events are the part of the document that defines how the user will interact with the website.
+Event can be defined as any kind of user interaction.
+
+code 1:- 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "./test.css" />
+    <title>HEADING</title>
+</head>
+<body>
+   <div> 
+    <h1 onclick="this.innerHTML = 'This is after click!' ">My page title</h1>
+    <ul>Harsh</ul>
+       <ul>Uden</ul> 
+       <ul> Iincc    </ul>
+
+   </div>
+</body>
+</html>
+
+
+onload and onUnload Events: triggered when user enters or leaves the page, uses for loading the browser used by the user.
+onchange: validation of input feilds
