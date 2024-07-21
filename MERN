@@ -1,1 +1,10 @@
 MONGO DM + EXPRESS + REACT + NODE = MERN stack.
+MONGO DB: Its a database technology, comprising of key value pairs, similar to JSON.
+Why use mongoDB: Fast, scalable, use of JS, schema less, simple environment setup.
+
+Express: Its a nodejs framework, most important in terms of mern STack development. Used for maily writing the backened code of the document.
+Why use express: Asynchronus, fast, scalable, efficint, robust API.
+
+React: frontend framework, most most important for the MERN Stack developer. Its a JS Library, currently maitained by meta.
+
+Node JS: Father of all of the above. Its a JS runtime environment.
