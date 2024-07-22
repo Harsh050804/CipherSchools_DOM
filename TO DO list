@@ -1,0 +1,12 @@
+import { Component } from "react";
+import TODO from "./Screens/TODO";
+
+class App extends Component{
+
+  render(){
+    return<TODO/>
+  }
+
+}
+
+export default App;
