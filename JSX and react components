@@ -1,0 +1,8 @@
+JSX looks LIKE HTML, can contain Html, and react components, and allows to write JS code inside.
+
+React components:-
+Like functions, contain some logical code, accept arguments that control UI.
+There can be 2 types of component, function type and class type, in which funtion type is as same as the JS funtion, but inclass, we have certain rules;
+1) alwas import component in the code.
+2) always extend the imported code in the class.
+always call render function, and render function will always return some kind of UI from it.
