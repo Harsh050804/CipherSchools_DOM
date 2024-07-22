@@ -1,0 +1,4 @@
+React is an Single Page application{SPA}
+even if there are multiple pages in our project, everything will be controlled by a single page in react.
+
+All the relevent cade we wil write, it will be present inside SRC folder of react project.
