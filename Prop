@@ -1,0 +1,23 @@
+const Task = () => {
+  return (
+    <div className="card">
+    <div className="content">
+      <div className="header">
+        Go to gym
+      </div>
+      
+      <div className="description">
+Pump
+      </div>
+    </div>
+    <div className="extra content">
+      <div className="ui two buttons">
+        <div className="ui basic green button">Edit</div>
+        <div className="ui basic red button">Delete</div>
+      </div>
+    </div>
+  </div>
+  )
+}
+
+export default Task;
